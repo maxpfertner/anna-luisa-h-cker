@@ -13,7 +13,7 @@ subtitle: If you want to get in touch, please use this contact form. All message
 
 content:
   # Automatically link email and phone or display as text?
-  autolink: false
+  autolink: true
   
   # Email form provider
   form:
@@ -25,15 +25,15 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-   contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/Twitter'
-    - icon: researchgate
-      icon_pack: ai
-      name: Follow me on ResearchGate!
-      link: 'https://www.researchgate.net/profile/Anna-Luisa-Haecker-2'
+   # contact_links:
+   #  - icon: twitter
+   #    icon_pack: fab
+   #    name: DM Me
+   #    link: 'https://twitter.com/Twitter'
+   #  - icon: twitter
+   #    icon_pack: fab
+   #    name: Follow me on ResearchGate!
+   #    link: 'https://www.researchgate.net/profile/Anna-Luisa-Haecker-2'
 
 design:
   columns: '2'
