@@ -14,8 +14,7 @@ organizations:
   url: https://www.tum.de/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include cardiovascular diseases, overweight and obesity, 
-and arterial stiffness/thickness.
+bio: My research interests include cardiovascular diseases, overweight and obesity, and arterial stiffness/thickness.
 
 # Interests to show in About widget
 interests:
