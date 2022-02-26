@@ -45,12 +45,8 @@ experience:
     location: Montréal, Canada
     date_start: '2016-04-01'
     date_end: '2016-09-30'
-    description: |2-
-        Responsibilities include:
-        
-        * Research and paper publication 
-        * Attending to behavioral interventions and sports classes for overweight and obese children and teenagers
-
+    description: 'test'
+   
 
 - title: Researcher
     company: Chair of Preventive Pediatrics, Technical University of Munich
