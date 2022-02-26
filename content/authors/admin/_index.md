@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr. rer. nat. Anna-Luisa Häcker
+title: Anna-Luisa Häcker, PhD
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,8 +10,8 @@ role: Researcher - currently open for new opportunities.
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Technical University of Munich
-  url: https://www.tum.de/
+# - name: Technical University of Munich
+#   url: https://www.tum.de/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include cardiovascular diseases, overweight and obesity, and arterial stiffness/thickness.
@@ -76,4 +76,4 @@ She has been on parental leave since the end of 2018, raising two girls, and wou
 
 
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
