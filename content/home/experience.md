@@ -25,11 +25,10 @@ experience:
   - title: 'PhD student'
     company: 'German Heart Centre'
     company_url: 'https://www.deutsches-herzzentrum-muenchen.de/'
-    company_logo: '/images/dhm.svg'
     location: 'Munich, Germany'
     date_start: '2017-01-01'
     date_end: '2018-12-31'
-    description: |2-
+    description: >-
         Responsibilities include:
         
           * Analyzing intima media thickness 
@@ -41,26 +40,11 @@ experience:
   - title: 'Researcher'
     company: 'Sainte-Justine Children’s Hospital'
     company_url: 'https://www.chusj.org/Home'
-    company_logo: '/images/logo_CHUSJ.png'
     location: 'Montréal, Canada'
     date_start: '2016-04-01'
     date_end: '2016-09-30'
     description: 'test'
-   
-
-- title: 'Researcher'
-    company: 'Chair of Preventive Pediatrics, Technical University of Munich'
-    company_url: 'https://www.sg.tum.de/praeventive-paediatrie/startseite/'
-    company_logo: '/images/tum-logo.png'
-    location: 'Munich, Germany'
-    date_start: '2014-01-01'
-    date_end: '2018-12-31'
-    description: |2-
-        Responsibilities include:
-        
-        * Measuring of flow mediated dilatation
-        * Teaching assignments
-
+  
 design:
   columns: '2'
 ---
