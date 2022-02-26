@@ -28,7 +28,7 @@ experience:
     location: 'Munich, Germany'
     date_start: '2017-01-01'
     date_end: '2018-12-31'
-    company_logo: '/images/dhm.svg'
+    company_logo: 'dhm'
     description: >-
         Responsibilities include:
         
