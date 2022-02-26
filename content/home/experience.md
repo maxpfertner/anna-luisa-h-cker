@@ -49,8 +49,7 @@ experience:
         Responsibilities include:
         
         * Research and paper publication 
-        * Attending to behavioral interventions and sports classes 
-        for overweight and obese children and teenagers
+        * Attending to behavioral interventions and sports classes for overweight and obese children and teenagers
 
 - title: Researcher
     company: Chair of Preventive Pediatrics, Technical University of Munich
