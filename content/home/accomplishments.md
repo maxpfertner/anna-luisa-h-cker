@@ -23,29 +23,19 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
-  date_end: ""
-  date_start: "2021-01-25"
-  description: ""
-  organization: Coursera
+- date_end: ""
+  date_start: "2018-05-12"
+  description: "Third place for the best oral poster presentation at the Annual Meeting of the Association for European Pediatric and Congenital Cardiology, 2018, Athens, Greece"
+  organization: AEPC
   organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
-  url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+  title: AEPC 2018 Oral Poster Presentation Price
+  url: "https://www.aepc.org/past-aepc-meetings"
+
+- date_start: "2015-04-01"
+  description: "My research stay in Montréal was partly funded by a scholarship awarded by the Bavarian Research Alliance."
+  organization: "Bavarian Research Alliance"
+  organization_url: "https://www.bayfor.org/en/index.html"
+  title: 'International Placement Scholarship'
   url: ""
 
 design:

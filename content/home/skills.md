@@ -43,7 +43,7 @@ feature:
 - description:
   icon: icons8-hospital
   icon_pack: custom
-  name: Patient management
+  name: Patient Management
 
 
 # Uncomment to use emoji icons.
