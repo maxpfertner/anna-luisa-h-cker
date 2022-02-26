@@ -25,7 +25,7 @@ feature:
 #   icon_pack: fas
 #   name:  Statistics with R & SPSS
   
-  - description:
+- description:
   icon: icons8-statistics
   icon_pack: custom
   name:  Statistics with R & SPSS
