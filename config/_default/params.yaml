@@ -41,7 +41,9 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Anna-Luisa Häcker. This work is licensed under {license}'
+    notice: >-
+              © {year} Anna-Luisa Häcker. This work is licensed under {license}.
+              [Ultrasound icon](https://icons8.de/icon/24592/ultraschall) provided by [Icons8](https://icons8.de).
     license:
       enable: true
       allow_derivatives: false

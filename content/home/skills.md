@@ -25,13 +25,13 @@ feature:
   icon_pack: fas
   name:  Statistics with R & SPSS
 - description:
-  icon: chart-line
-  icon_pack: fas
+  icon: ultraschall
+  icon_pack: custom
   name: Carotid Ultrasound
 - description:
   icon: hospital-user
   icon_pack: fas
-  name: Working with patients
+  name: Patient management
 
 
 # Uncomment to use emoji icons.
@@ -44,8 +44,8 @@ feature:
 # Place your custom SVG icon in `assets/media/icons/`.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
 # For example, reference `assets/media/icons/xyz.svg` as `icon: 'xyz'`
-#- icon: "your-custom-icon-name"
-#  icon_pack: "custom"
-#  name: "Surfing"
-#  description: "90%"
+- icon: "ultraschall"
+  icon_pack: "custom"
+ name: "ultraschall"
+ description: "90%"
 ---
