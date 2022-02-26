@@ -20,19 +20,29 @@ feature:
 #   icon: r-project
 #   icon_pack: fab
 #   name: R
-- description:
-  icon: chart-line
-  icon_pack: fas
+# - description:
+#   icon: chart-line
+#   icon_pack: fas
+#   name:  Statistics with R & SPSS
+  
+  - description:
+  icon: icons8-statistics
+  icon_pack: custom
   name:  Statistics with R & SPSS
   
 - description:
-  icon: ultraschall
+  icon: icons8-ultrasound
   icon_pack: custom
   name: Carotid Ultrasound
   
+# - description:
+#   icon: hospital-user
+#   icon_pack: fas
+#   name: Patient management
+
 - description:
-  icon: hospital-user
-  icon_pack: fas
+  icon: icons8-hospital
+  icon_pack: custom
   name: Patient management
 
 
