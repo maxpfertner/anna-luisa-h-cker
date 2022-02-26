@@ -76,4 +76,4 @@ She has been on parental leave since the end of 2018, raising two girls, and wou
 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Anna_Häcker.pdf" "newtab" >}}resumé{{< /staticref >}}.
