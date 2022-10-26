@@ -32,7 +32,7 @@ highlight_name: true
 
 Anna-Luisa Häcker did her PhD about cardiovascular risk of patients with congenital heart disease, where she analyzed the predicted 10-year-risk of a major cardiovascular event based on the PROCAM® score, using different blood parameters. Further research included the association of the metabolic syndrome on the intima-media thickness of the Arteria carotis communis. In addition, the arterial stiffness was examined in children with congenital heart disease and compared to heart-healthy children. 
 
-She has been on parental leave since the end of 2018, raising two girls, and would like to return to work in the fall of 2022. 
+She has been on parental leave since the end of 2018, raising two girls. In September and October 2022, she worked as a guest researcher in the field of pediatric oncology at the University of Copenhagen. She would like to return to work early 2023. 
 
 
 
