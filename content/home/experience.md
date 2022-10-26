@@ -28,7 +28,7 @@ experience:
     company: 'Paediatric Oncology Research Laboratory BonkoLab, Rigshospitalet Copenhagen'
     company_url: 'https://www.rigshospitalet.dk/english/departments/juliane-marie-centre/department-of-paediatrics-and-adolescent-medicine/paediatric-oncology-research-laboratory/Pages/default.aspx'
     location: 'Copenhagen, Denmark'
-    date_start: '2022-01-09'
+    date_start: '2022-09-01'
     date_end: '2022-10-31'
     description: >-
  
