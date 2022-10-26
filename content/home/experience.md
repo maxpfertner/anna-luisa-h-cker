@@ -21,22 +21,23 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+
 experience:
 
-- title: 'Guest researcher'
-    company: 'Paediatric Oncology Research Laboratory "BonkoLab", Rigshospitalet Copenhagen'
+  - title: 'Guest researcher'
+    company: 'Paediatric Oncology Research Laboratory BonkoLab, Rigshospitalet Copenhagen'
     company_url: 'https://www.rigshospitalet.dk/english/departments/juliane-marie-centre/department-of-paediatrics-and-adolescent-medicine/paediatric-oncology-research-laboratory/Pages/default.aspx'
     location: 'Copenhagen, Denmark'
     date_start: '2022-01-09'
     date_end: '2022-10-31'
     description: >-
-        Responsibilities include:
+ 
+        Responsibilities include: 
+        
           * Planning and writing a proposal for a new pilot study
           * Co-authorship in a review paper about exercise safety in pediatric oncology
           * Insight and support in sports exercises in the lab's intervention programs
           * Build and strenghten the cooperation between the labs in Copenhagen and Munich
-
-          
 
           
   - title: 'PhD student'
