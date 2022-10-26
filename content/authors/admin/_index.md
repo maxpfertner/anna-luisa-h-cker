@@ -2,12 +2,12 @@
 title: Anna-Luisa Häcker, PhD
 role: Researcher - currently open for new opportunities.
 avatar_filename: avatar.jpg
-bio: My research interests include cardiovascular diseases, overweight and
-  obesity, and arterial stiffness/thickness.
+bio: My previous research includes cardiovascular diseases, overweight and
+  obesity, and arterial stiffness/thickness. I am open for new fields!
 interests:
-  - cardiovascular diseases
-  - overweight and obesity
-  - arterial stiffness and thickness
+  - (co-) creating research ideas and bringing them to life
+  - communication from science to practice
+  - clinical work and studies - close to the people
 social:
   - icon: envelope
     icon_pack: fas
